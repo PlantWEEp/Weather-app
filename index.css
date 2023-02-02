@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-control {
+    width: 50% !important;
+}
+
+button#sumbit {
+    width: 50%;
+}
+
+button#refresh {
+    width: 50%;
+}
+
+#hero {
+    height: 100vh;
+    background: linear-gradient(90deg, #9FE7F5 0%, 70%, #F7AD19 6%);
+}
+
+#cityName {
+    background: -webkit-linear-gradient(30deg, #EE6C4D, #293241);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.container-fluid a {
+    color: #fff !important;
+}
+
+h1 {
+    color: #fff;
+}
